@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "mcpmarket-me": {
+      "type": "http",
+      "url": "https://link.mcpmarket.com/medakayalamuraliyadav/toolkits/me/mcp",
+      "headers": {
+        "Authorization": "Bearer sk_user_QL7x-dhxDOLPifD7anoT3L3fIj4u1qvC"
+      }
+    }
+  }
+}
